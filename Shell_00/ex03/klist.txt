@@ -1,0 +1,6 @@
+Credentials cache: API:F9DDF90D-3B94-4946-978F-3604B61D8813
+        Principal: oturkan@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 18 15:24:37 2021  Oct 19 01:24:37 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Oct 18 15:24:38 2021  Oct 19 01:24:37 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
